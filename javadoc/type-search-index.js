@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ec.edu.uce.dominio","l":"Banco"},{"p":"ec.edu.uce.dominio","l":"Cliente"},{"p":"ec.edu.uce","l":"Main"},{"p":"ec.edu.uce.dominio","l":"Test"},{"p":"ec.edu.uce.dominio","l":"TestCliente"}];updateSearchResults();
